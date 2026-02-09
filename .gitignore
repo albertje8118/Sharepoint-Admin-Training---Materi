@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+.env/
+
+# VS Code / IDE
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Office temp/lock files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Generated training artifacts (keep sources/templates tracked)
+*.pptx
+*.pdf
+*.docx
+*.xlsx
+
+# Common exported reports/logs from labs/scripts
+*.csv
+*.log
+
+# If you have local copies of participant outputs, ignore them
+participant-packs/**/OUTPUT/
+participant-packs/**/Generated/
