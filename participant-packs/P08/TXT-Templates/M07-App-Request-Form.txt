@@ -1,0 +1,20 @@
+Northwind Training Scenario — P08
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 7 (Apps) — App Request Form (Training)
+Purpose: A simple document you can upload and use in app governance discussions.
+
+Request summary
+- Requestor department: ________
+- Business need: Add a lightweight page component for contracts dashboard
+- Data sensitivity: Internal
+- Target site: NW-Pxx-ProjectSite
+
+Approval checklist
+- Security review completed: Y/N
+- Licensing confirmed: Y/N
+- Rollback plan documented: Y/N

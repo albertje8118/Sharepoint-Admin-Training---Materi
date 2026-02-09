@@ -1,0 +1,17 @@
+Northwind Training Scenario — P09
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 6 (Search) — Seed Document A
+Paste into a new document and upload to NW-Pxx-Contracts (or a lab library).
+
+Unique phrases to search for:
+- Northwind Search Drill Alpha - P09
+- ContractTypeRef: NDA
+- ProjectCodename: HARBORLIGHT
+
+Body
+This document exists to validate indexing and search behavior in training.

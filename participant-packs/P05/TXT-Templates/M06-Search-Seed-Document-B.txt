@@ -1,0 +1,15 @@
+Northwind Training Scenario — P05
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 6 (Search) — Seed Document B
+Unique phrases to search for:
+- Northwind Search Drill Beta - P05
+- ContractTypeRef: SOW
+- ProjectCodename: RIVERSTONE
+
+Body
+Use this as a second document to compare search results and filters.

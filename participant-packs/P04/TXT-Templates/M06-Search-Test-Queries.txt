@@ -1,0 +1,19 @@
+Northwind Training Scenario — P04
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 6 (Search) — Test Queries
+Use these queries when validating search across SharePoint/Microsoft Search.
+
+Queries
+- "Northwind Search Drill Alpha - P04"
+- "Northwind Search Drill Beta - P04"
+- HARBORLIGHT
+- RIVERSTONE
+- ContractTypeRef
+
+Optional (advanced / may vary by experience)
+- filetype:docx

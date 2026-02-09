@@ -1,0 +1,29 @@
+Northwind Training Scenario — P05
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 4 (Permissions) — Document Template
+Intended location: Library NW-Pxx-Contracts / Folder 01-Drafts
+
+Document title: Contract Draft 001 (Training)
+Status: Draft
+Owner: Legal
+
+Purpose
+This draft contract is used for permissions and collaboration drills.
+
+Northwind ↔ Fabrikam Collaboration (Training Only)
+- Counterparty: Fabrikam (external partner in story; do not invite guests unless trainer approves)
+- Scope: Pilot collaboration for intranet modernization
+
+Key clauses (draft)
+1) Confidentiality: Internal discussion only; not final.
+2) Deliverables: Discovery workshop, IA proposal, phased rollout plan.
+3) Timeline: 4–6 weeks (draft estimate).
+4) Notes: Replace placeholders before using in real life.
+
+Revision notes
+- Add comments here during editing exercises.

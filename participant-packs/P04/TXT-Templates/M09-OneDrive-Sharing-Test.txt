@@ -1,0 +1,13 @@
+Northwind Training Scenario — P04
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 9 (OneDrive) — Sharing Test Note
+Paste into a new file and store in OneDrive (if your lab includes OneDrive sharing/sync).
+
+Title: Personal Work Notes (Training)
+- This file is used to observe OneDrive sharing behavior under policy.
+- Keep it non-sensitive and training-only.

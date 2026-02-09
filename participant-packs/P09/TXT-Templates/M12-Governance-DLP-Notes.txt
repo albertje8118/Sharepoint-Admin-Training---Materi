@@ -1,0 +1,22 @@
+Northwind Training Scenario — P09
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 12 (Optional) — Governance Notes (Environments + DLP)
+Purpose: Record what governance constraints apply to makers and connectors.
+
+Environments
+- Where are flows/apps being created for this lab? Default / Other: ____________________
+- Who can create environments in this tenant? ____________________
+
+DLP (Data Loss Prevention)
+- Data policy name observed (if trainer shows): ____________________
+- Key connectors allowed for productivity flows (example): SharePoint, Outlook, Approvals
+- Any blocked connectors discussed: ____________________
+
+Operational notes
+- What happens when a flow violates DLP? ____________________
+- Who approves exceptions/changes? ____________________

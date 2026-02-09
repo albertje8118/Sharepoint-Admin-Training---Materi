@@ -1,0 +1,18 @@
+Northwind Training Scenario — P01
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 8 (Purview) — DLP Test Data (FAKE)
+WARNING: Only use if the trainer explicitly enables a DLP test exercise.
+All data below is fake and for pattern-testing only.
+
+Fake identifiers (training)
+- Employee ID: NW-EMP-000123
+- Invoice ID:  NW-INV-2026-000045
+- Account (fake): ACCT-0000-0000
+
+Notes
+- If your tenant has DLP policies, this content might be detected depending on configuration.

@@ -1,0 +1,39 @@
+Northwind Training Scenario — P09
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 11 (Ops) — Change Request Template (Training)
+Purpose: Convert observations into a safe, reviewable change request.
+
+Change summary
+- Title: ____________________
+- Requested by (Pxx/team): ____________________
+- Date: ____________________
+
+Scope
+- Org-level or site-level? ____________________
+- Target (site URL / policy name): ____________________
+
+Current state (evidence)
+- What did you observe? ____________________
+- Where did you verify it (admin center page / report)? ____________________
+
+Proposed change
+- Setting/value to change: ____________________
+- Desired value: ____________________
+
+Risk and impact
+- Who is impacted? ____________________
+- Risk level (Low/Med/High): ________
+- Notes: ____________________
+
+Rollback plan
+- How to revert: ____________________
+- Validation after change: ____________________
+
+Approvals (trainer-led in shared tenant)
+- Approved by: ____________________
+- Approved time: ____________________

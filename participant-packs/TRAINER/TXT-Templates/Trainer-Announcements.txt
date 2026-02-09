@@ -1,0 +1,10 @@
+Trainer Pack — Templates
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Opening script (2–3 minutes)
+- Welcome to the Northwind shared-tenant lab environment.
+- Your Participant ID is P01–P10. Always prefix artifacts with NW-Pxx.
+- Tenant-wide settings are trainer-led only.
+- If you get stuck, capture the symptom and where you checked.

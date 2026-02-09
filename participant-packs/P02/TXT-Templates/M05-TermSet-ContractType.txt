@@ -1,0 +1,19 @@
+Northwind Training Scenario — P02
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 5 (Metadata) — Term Set Design
+Term group: NW-P02-TermGroup
+Term set:  NW-P02-ContractType
+
+Baseline terms
+- NDA
+- MSA
+- SOW
+- Renewal
+
+Notes
+- Recommended: keep the term set Closed for controlled tagging in training.

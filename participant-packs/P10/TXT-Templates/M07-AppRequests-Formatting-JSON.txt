@@ -1,0 +1,71 @@
+Northwind Training Scenario — P10
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 7 (Apps/Customization) — AppRequests Formatting (JSON)
+Use this template to paste JSON into SharePoint list formatting panels.
+List: NW-Pxx-AppRequests
+
+What this JSON is (and is not)
+- This is SharePoint list formatting (declarative customization).
+- It changes how fields/rows are displayed (icons, colors, layout).
+- It does NOT change the underlying list data.
+
+Permissions
+- You typically need Site Owner / Full Control on NW-Pxx-ProjectSite to format columns/views.
+
+No-JSON option (no code)
+- In many tenants, the formatting pane includes a visual/rules editor that generates JSON for you.
+- If you see options like Rules / Conditional formatting / Style, use those first.
+- If you do not see those options, your tenant/UI may require Advanced mode (JSON).
+
+A) Column formatting — Status column (Format this column)
+What it does (summary)
+- Uses the Status value to pick a severity style and an icon.
+- Shows the icon + the Status text in the cell.
+
+Without typing JSON (if available)
+1) Status column menu → Column settings → Format this column
+2) Choose Rules/Conditional formatting
+3) Create rules: Approved=success, In review=warning, Submitted=neutral, Rejected=blocked
+4) (Optional) Pick icons per rule → Preview → Save
+
+Paste and Save:
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
+  "elmType": "div",
+  "attributes": {
+    "class": "=if(@currentField == 'Approved', 'sp-field-severity--good', if(@currentField == 'In review', 'sp-field-severity--warning', if(@currentField == 'Submitted', 'sp-field-severity--low', 'sp-field-severity--blocked'))) + ' ms-fontColor-neutralSecondary'"
+  },
+  "children": [
+    {
+      "elmType": "span",
+      "style": { "display": "inline-block", "padding": "0 4px" },
+      "attributes": {
+        "iconName": "=if(@currentField == 'Approved', 'CheckMark', if(@currentField == 'In review', 'Error', if(@currentField == 'Submitted', 'Forward', 'ErrorBadge')))"
+      }
+    },
+    {
+      "elmType": "span",
+      "txtContent": "@currentField"
+    }
+  ]
+}
+
+B) View formatting — current view (Format current view)
+What it does (summary)
+- Applies an extra row class to alternating rows (zebra striping) using @rowIndex.
+
+Without typing JSON (if available)
+1) View dropdown → Format current view
+2) Look for Alternating rows / Row styling / a preset with zebra shading
+3) Save
+
+Paste and Save:
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/view-formatting.schema.json",
+  "additionalRowClass": "=if(@rowIndex % 2 == 0,'ms-bgColor-themeLighter ms-bgColor-themeLight--hover','')"
+}

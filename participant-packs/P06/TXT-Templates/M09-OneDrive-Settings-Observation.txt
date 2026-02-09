@@ -1,0 +1,35 @@
+Northwind Training Scenario — P06
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 9 (OneDrive) — Settings Observation Worksheet
+Purpose: Record current tenant settings (read-only verification).
+Shared-tenant note: Do NOT change tenant-wide settings unless trainer instructs.
+
+A) Where OneDrive settings live
+- SharePoint admin center pages checked: Sharing / Settings / Access control
+- Notes: ____________________
+
+B) Sharing (organization level)
+- External sharing level observed: ____________________
+- Default link type (if shown): ____________________
+- Default permissions (if shown): ____________________
+
+C) Sync
+- Sync button shown on OneDrive website? Yes/No/Not sure
+- Any sync restrictions shown (domains/file types)? ____________________
+
+D) Storage limit
+- Default OneDrive storage limit (if shown): ____________________
+- Notes/warnings observed: ____________________
+
+E) Retention (deleted users)
+- Days to retain files a deleted user's OneDrive: ________
+- Notes: retention starts when user is deleted; restore scenarios are admin-led
+
+F) Access control (unmanaged devices)
+- Current unmanaged devices setting: Allow full / Limited web-only / Block
+- Operational note: changes can take up to 24 hours and won't affect already signed-in users

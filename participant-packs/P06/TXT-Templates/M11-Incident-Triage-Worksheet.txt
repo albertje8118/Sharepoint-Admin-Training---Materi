@@ -1,0 +1,22 @@
+Northwind Training Scenario — P06
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 11 (Ops) — Incident Triage Worksheet
+Goal: Capture the first 5–10 minutes of admin triage.
+
+Service health
+- Any active incident/advisory for SharePoint/OneDrive? Yes/No
+- ID (if present): ____________________
+- User impact summary: ____________________
+- Last updated: ____________________
+
+Message center
+- Any recent messages affecting SharePoint/OneDrive? Yes/No
+- Message title(s): ____________________
+
+Decision
+- Wait/communicate vs troubleshoot locally: ____________________

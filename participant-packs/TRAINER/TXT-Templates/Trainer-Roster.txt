@@ -1,0 +1,16 @@
+Trainer Pack — Templates
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Roster
+- P01: NW-P01-ProjectSite
+- P02: NW-P02-ProjectSite
+- P03: NW-P03-ProjectSite
+- P04: NW-P04-ProjectSite
+- P05: NW-P05-ProjectSite
+- P06: NW-P06-ProjectSite
+- P07: NW-P07-ProjectSite
+- P08: NW-P08-ProjectSite
+- P09: NW-P09-ProjectSite
+- P10: NW-P10-ProjectSite

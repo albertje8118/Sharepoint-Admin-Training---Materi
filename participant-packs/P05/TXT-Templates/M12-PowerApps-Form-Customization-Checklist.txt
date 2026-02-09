@@ -1,0 +1,25 @@
+Northwind Training Scenario — P05
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 12 (Optional) — Power Apps Form Customization Checklist
+Target list: NW-Pxx-AppRequests
+
+Access
+- Can open Integrate → Power Apps → Customize forms: Yes/No
+
+Customization (choose at least one)
+- Re-ordered fields to put Status/Owner near the top: Yes/No
+- Added a label/header text for the form: Yes/No
+- Added basic conditional visibility (optional): Yes/No
+
+Publish and validation
+- Saved successfully in Power Apps Studio: Yes/No
+- Published to SharePoint successfully: Yes/No
+- Verified form change in the list item UI: Yes/No
+
+Notes
+- ____________________

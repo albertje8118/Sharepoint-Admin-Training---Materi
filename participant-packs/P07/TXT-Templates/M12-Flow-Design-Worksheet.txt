@@ -1,0 +1,34 @@
+Northwind Training Scenario — P07
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 12 (Optional) — Power Automate Flow Design Worksheet
+Goal: Document a simple approval flow connected to your NW-Pxx-AppRequests list.
+
+Flow identity
+- Proposed flow name: NW-Pxx-AppRequests-Approval
+- Environment (if known): ____________________
+- Owner: ____________________
+- Backup owner: ____________________
+
+Trigger
+- Trigger used (created vs created/modified): ____________________
+- Site address: https://<tenant>.sharepoint.com/sites/NW-Pxx-ProjectSite
+- List name: NW-Pxx-AppRequests
+
+Approval action
+- Approval type (First to respond / Everyone must approve / etc.): ____________________
+- Assigned to (who receives approval): ____________________
+- Title format used: ____________________
+
+Outcome handling
+- Approved → Status value: Approved
+- Rejected → Status value: Rejected
+- Comments stored in Notes? Yes/No
+
+Safety checks
+- Approver is self or trainer-designated (avoid spamming): Yes/No
+- Loop risk addressed (trigger choice/conditions): Yes/No

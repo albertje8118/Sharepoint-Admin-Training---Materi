@@ -1,0 +1,20 @@
+Northwind Training Scenario — P07
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 5 (Metadata) — Tagging Worksheet
+Site: NW-P07-ProjectSite
+Library: NW-P07-Contracts
+Column: NW-Pxx-ContractType (managed metadata)
+
+Tag at least 3 documents:
+1) Document: ____________________ | ContractType: ________
+2) Document: ____________________ | ContractType: ________
+3) Document: ____________________ | ContractType: ________
+
+What did you observe?
+- Type-ahead suggestions: Yes/No
+- Fill-in choices allowed: Yes/No/Not sure

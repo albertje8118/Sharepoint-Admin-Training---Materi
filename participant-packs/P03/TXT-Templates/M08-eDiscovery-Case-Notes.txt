@@ -1,0 +1,22 @@
+Northwind Training Scenario — P03
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 8 (Purview) — eDiscovery Case Notes (Worksheet)
+Default delivery: trainer demo. Hands-on only if trainer assigns permissions.
+
+Case planning
+- Proposed case name: NW-P03-eDiscovery-Case
+- SharePoint site in scope: NW-P03-ProjectSite (only)
+- Keywords to test: CONFIDENTIAL
+
+Search results
+- Did search find your document? Yes/No
+- Any false positives? ____________________
+
+Hold decision (trainer-approved only)
+- Hold created? Yes/No
+- Scope limited to NW-Pxx locations only? Yes/No

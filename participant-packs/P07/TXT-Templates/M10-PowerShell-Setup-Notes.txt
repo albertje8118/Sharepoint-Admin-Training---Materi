@@ -1,0 +1,18 @@
+Northwind Training Scenario — P07
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 10 (PowerShell) — Setup Notes
+Goal: Record how you connected and what context you used.
+
+SharePoint Online PowerShell
+- Admin URL used: https://<tenant>-admin.sharepoint.com
+- Connect-SPOService succeeded: Yes/No
+- Any errors/warnings: ____________________
+
+Microsoft Graph PowerShell (optional, trainer-approved)
+- Scopes requested (example: User.Read.All): ____________________
+- Admin consent prompt occurred: Yes/No/Not sure

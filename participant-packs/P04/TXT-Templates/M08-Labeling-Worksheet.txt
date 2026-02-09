@@ -1,0 +1,23 @@
+Northwind Training Scenario — P04
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 8 (Purview) — Labeling Worksheet
+Site: NW-P04-ProjectSite
+Library: NW-P04-Contracts
+Target document: NW-Pxx-Confidential-Statement.docx
+
+Sensitivity label
+- Label name applied: ____________________
+- Where applied (SharePoint/Office): ____________________
+
+Retention label
+- Label name applied: ____________________
+- Where applied (SharePoint properties/other): ____________________
+
+Notes (timing/replication)
+- Did labels appear immediately? Yes/No
+- If not, how long did it take? ____________________

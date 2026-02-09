@@ -1,0 +1,24 @@
+Northwind Training Scenario — P09
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 11 (Ops) — External Sharing Governance Worksheet
+Purpose: Record sharing posture and defaults (read-only verification).
+
+Organization-level
+- External sharing level (SharePoint): ____________________
+- External sharing level (OneDrive): ____________________
+- Default link type: ____________________
+- Anyone link expiration/permissions (if enabled): ____________________
+
+Site-level (your NW-Pxx site)
+- Can site be more permissive than org-level? No
+- Any site-level restriction observed (do not change): ____________________
+
+Change request draft (trainer-led approval required)
+- Proposed change: ____________________
+- Risk/impact: ____________________
+- Rollback plan: ____________________

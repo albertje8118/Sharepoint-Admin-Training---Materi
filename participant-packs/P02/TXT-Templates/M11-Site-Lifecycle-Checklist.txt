@@ -1,0 +1,20 @@
+Northwind Training Scenario — P02
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 11 (Ops) — Site Lifecycle Checklist
+Purpose: Document guardrails and restore expectations (shared tenant safe).
+
+Restore model
+- Who can restore deleted sites? ____________________
+- Deleted sites retention window (days): ________
+
+Guardrails
+- Do NOT delete root site (high impact): Confirmed
+- Delete/restore drills are trainer-led unless assigned: Confirmed
+
+Notes
+- ____________________

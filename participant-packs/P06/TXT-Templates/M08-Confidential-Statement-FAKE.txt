@@ -1,0 +1,17 @@
+Northwind Training Scenario — P06
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 8 (Purview) — Confidential Statement (FAKE)
+Use this for sensitivity/retention demonstrations if your lab instructions require content.
+Do not use real personal data.
+
+CONFIDENTIAL — NORTHWIND (TRAINING ONLY)
+This document is intended to be classified as internal/confidential in training.
+
+Project: Intranet Modernization
+Document type: Decision memo
+Audience: Northwind leadership team

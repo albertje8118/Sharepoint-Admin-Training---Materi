@@ -1,0 +1,13 @@
+Northwind Training Scenario — P09
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 4 (Permissions) — Change Log Template
+Intended location: Library NW-Pxx-Contracts / Folder 02-InReview
+
+Change Log
+- Date | Version | Author | Summary
+- 2026-02-09 | v0.1 | P09 | Initial training draft

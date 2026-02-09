@@ -1,0 +1,32 @@
+Northwind Training Scenario — P06
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 6 (Search) — Microsoft Search Answers (Config Worksheet)
+Use this worksheet if you have Search admin/editor permissions.
+
+Permissions and access
+- To create/edit Bookmarks and Acronyms, you need one of these Microsoft 365 roles:
+  - Search admin, or
+  - Search editor
+- These roles are assigned by a Global admin.
+
+Bookmark
+- Title: NW-P06 Project Site
+- URL: (paste your NW-Pxx-ProjectSite home page URL)
+- Keywords (training-only; include Pxx):
+  - NW P06 ProjectSite
+  - Northwind P06 site
+  - NW-P06 Project Site
+
+Acronym
+- Acronym: NWP06 (no spaces)
+- Stands for: Northwind Participant P06
+- Source URL: (paste your NW-Pxx-ProjectSite URL)
+
+Operational notes
+- Bookmarks: visible immediately after publishing.
+- Acronyms: can take up to a day after publishing.

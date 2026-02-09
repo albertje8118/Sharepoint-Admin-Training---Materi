@@ -1,0 +1,53 @@
+Trainer Pack — Templates
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Module 4 — Permissions (trainer runbook)
+- Confirm each participant has NW-Pxx-ProjectSite.
+- Emphasize: break inheritance at library; 1 folder only unique perms.
+- Keep sharing drills internal-only unless you explicitly approve.
+
+Module 5 — Term store + managed metadata (trainer runbook)
+- Term store is tenant-wide: enforce NW-Pxx naming and isolation.
+- If participants cannot create term groups, direct them to local fallback.
+- Spot-check tagging: 3 docs tagged with ContractType terms.
+
+Module 6 — Search (trainer runbook)
+- Expect indexing delay; seed docs include participant-specific phrases.
+- Bookmarks: visible immediately after publish; enforce NW-Pxx-only keywords.
+- Acronyms: can take up to a day after publish; treat as concept if needed.
+
+Module 7 — Apps and customization (trainer runbook)
+- Participant exercise is list/view formatting (JSON) only; no app deployment required.
+- Treat Apps and API access pages as trainer-led read-only tours in shared tenant.
+- Do not approve API access requests during training.
+
+Module 8 — Purview (trainer runbook)
+- Publish training labels ahead of time if possible; plan for replication delays.
+- Keep participant tasks scoped to their own NW-Pxx site content (apply labels only).
+- eDiscovery: default delivery is demo-only; if hands-on, assign permissions and limit scope.
+- DLP: do not enable blocking actions in a shared training tenant; use simulation-only if demonstrated.
+
+Module 9 — OneDrive administration (trainer runbook)
+- OneDrive settings are managed in SharePoint admin center and are tenant-wide: treat as trainer-led for changes.
+- Participants should do read-only verification + internal-only OneDrive sharing test (no guests).
+- If demonstrating unmanaged devices controls: note it can take up to 24 hours to apply and won't affect already signed-in users.
+- If demonstrating sync governance: reinforce OneDrive shortcuts vs Sync, and clarify that hiding Sync blocks new syncs only.
+
+Module 10 — PowerShell and automation (trainer runbook)
+- Emphasize read-only reporting first; participants export CSV outputs for review.
+- Treat tenant-wide changes as trainer-led only in a shared tenant.
+- If using Microsoft Graph PowerShell: confirm scopes and consent behavior; avoid write operations unless explicitly assigned.
+
+Module 11 — Operations at scale (trainer runbook)
+- Lead with Service health and Message center: check for incidents/advisories and planned changes.
+- Access issues: validate identity vs link type and use Check Permissions before changing anything.
+- Lifecycle: keep delete/restore actions trainer-led; participants document guardrails and restore expectations.
+- External sharing: review link types/defaults; keep org-level and site-level changes trainer-led.
+
+Module 12 (Optional) — Power Automate + Power Apps (trainer runbook)
+- Keep participant scope to their NW-Pxx-AppRequests list only.
+- Approver should be self or trainer-designated to avoid spamming.
+- Prefer 'When an item is created' trigger to avoid update loops.
+- Environments and DLP policy changes are trainer-led demos unless explicitly assigned.

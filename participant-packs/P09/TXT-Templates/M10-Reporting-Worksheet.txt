@@ -1,0 +1,27 @@
+Northwind Training Scenario — P09
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 10 (PowerShell) — Reporting Worksheet
+Purpose: Capture what you exported and validate safe scoping.
+
+A) Site inventory export
+- Output file: NW-Pxx-Sites.csv
+- Filter used to scope to NW-Pxx: ____________________
+- Count of sites in output: ________
+
+B) Site users export
+- Target site URL: https://<tenant>.sharepoint.com/sites/NW-Pxx-ProjectSite
+- Output file: NW-Pxx-Users.csv
+- Did output include your account? Yes/No
+
+C) CSV-driven loop
+- Targets.csv created with only your NW-Pxx site? Yes/No
+- Output file: Targets-Users.csv
+
+Safety check
+- Did you avoid tenant-wide changes? Yes/No
+- Notes: ____________________

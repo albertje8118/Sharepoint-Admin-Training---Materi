@@ -1,0 +1,25 @@
+Northwind Training Scenario — P01
+Course: Modern SharePoint Online for Administrators (3-Day, 2026 aligned)
+Scenario: Project Northwind Intranet Modernization
+Date: 2026-02-09
+
+Shared-tenant note: Use only your own NW-Pxx artifacts.
+
+Module 4 (Permissions) — Document Template
+Intended location: Library NW-Pxx-Contracts / Folder 03-Final
+
+Document title: Contract Final 001 (Training)
+Status: Final
+Approved by: (training)
+
+Summary
+This is the FINAL version used for folder-level permission drills (editors read-only).
+
+Agreement Summary (Training Only)
+- Parties: Northwind Traders and Fabrikam
+- Effective date: TBD
+- Access: Broad read access in Final folder; controlled editing
+
+Sign-off
+Northwind: ____________________
+Fabrikam:  ____________________
