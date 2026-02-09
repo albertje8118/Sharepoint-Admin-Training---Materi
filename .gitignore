@@ -26,15 +26,9 @@ Thumbs.db
 ~$*.docx
 ~$*.xlsx
 
-# Generated training artifacts (keep sources/templates tracked)
-*.pptx
-*.pdf
-*.docx
-*.xlsx
-
-# Common exported reports/logs from labs/scripts
-*.csv
+# Local logs (keep course deliverables like PPTX/DOCX/PDF/XLSX/CSV tracked)
 *.log
+*.tmp
 
 # If you have local copies of participant outputs, ignore them
 participant-packs/**/OUTPUT/
