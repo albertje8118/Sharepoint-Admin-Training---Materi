@@ -19,7 +19,7 @@ ENV/
 .vscode/
 
 # GitHub
-.github/
+.github/agents/
 
 # OS junk
 .DS_Store
