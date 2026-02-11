@@ -18,6 +18,9 @@ ENV/
 # VS Code / IDE
 .vscode/
 
+# GitHub
+.github/
+
 # OS junk
 .DS_Store
 Thumbs.db
