@@ -20,6 +20,7 @@ ENV/
 
 # GitHub
 .github/agents/
+.github/copilot-instructions.md
 
 # OS junk
 .DS_Store
