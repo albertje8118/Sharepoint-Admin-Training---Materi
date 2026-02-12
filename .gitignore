@@ -22,6 +22,9 @@ ENV/
 .github/agents/
 .github/copilot-instructions.md
 
+# Alternative design variants
+module 1-alt/
+
 # OS junk
 .DS_Store
 Thumbs.db
